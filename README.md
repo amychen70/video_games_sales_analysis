@@ -15,5 +15,5 @@ Relational database project for aircraft incidents using R. Includes scripts for
 ## Charts
 - ![Bubble Chart](images/bubblechart.png)
 - ![HeatMap](images/newplot.png)
-- ![Sales vs Number of Games](images/Sales vs Number of Games.png)
-- ![Sales vs Number of Games Bar](images/Sales vs Number of Games bar.png)
+- ![Sales vs Number of Games](images/Sales_vs_Number_of_Games.png)
+- ![Sales vs Number of Games Bar](images/Sales_vs_Number_of_Games_bar.png)
